@@ -1,9 +1,8 @@
 package level_1;
 
-public class foodFight {
+public class 푸드_파이트_대회 {
 
 	public static void main(String[] args) {
-		
 		int[] food = {1, 3, 4, 6};
 		String answer = "";
 		
