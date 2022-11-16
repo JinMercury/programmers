@@ -1,6 +1,6 @@
 package level_1;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class 과일_장수 {
 
