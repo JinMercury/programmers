@@ -45,10 +45,10 @@ public class 키패드_누르기 {
 				if(left == 4) leftDis = 1; if(right == 6) rightDis = 1;
 				if(left == 7) leftDis = 2; if(right == 9) rightDis = 2; 
 				if(left == -1) leftDis = 3; if(right == -1) rightDis = 3;
-				if(left == 2) leftDis = 0; if(right == 2) rightDis = 0;
-				if(left == 5) leftDis = 1; if(right == 5) rightDis = 1;
-				if(left == 8) leftDis = 2; if(right == 8) rightDis = 2;
-				if(left == 0) leftDis = 3; if(right == 0) rightDis = 3;
+				if(left == 2) leftDis = 1; if(right == 2) rightDis = 1;
+				if(left == 5) leftDis = 0; if(right == 5) rightDis = 0;
+				if(left == 8) leftDis = 1; if(right == 8) rightDis = 1;
+				if(left == 0) leftDis = 2; if(right == 0) rightDis = 2;
 				if(leftDis < rightDis) {
 					answer += 'L';
 					left = numbers[i];
@@ -69,10 +69,10 @@ public class 키패드_누르기 {
 				if(left == 4) leftDis = 2; if(right == 6) rightDis = 2;
 				if(left == 7) leftDis = 1; if(right == 9) rightDis = 1; 
 				if(left == -1) leftDis = 2; if(right == -1) rightDis = 2;
-				if(left == 2) leftDis = 0; if(right == 2) rightDis = 0;
+				if(left == 2) leftDis = 2; if(right == 2) rightDis = 2;
 				if(left == 5) leftDis = 1; if(right == 5) rightDis = 1;
-				if(left == 8) leftDis = 2; if(right == 8) rightDis = 2;
-				if(left == 0) leftDis = 3; if(right == 0) rightDis = 3;
+				if(left == 8) leftDis = 0; if(right == 8) rightDis = 0;
+				if(left == 0) leftDis = 1; if(right == 0) rightDis = 1;
 				if(leftDis < rightDis) {
 					answer += 'L';
 					left = numbers[i];
@@ -93,10 +93,10 @@ public class 키패드_누르기 {
 				if(left == 4) leftDis = 3; if(right == 6) rightDis = 3;
 				if(left == 7) leftDis = 2; if(right == 9) rightDis = 2; 
 				if(left == -1) leftDis = 1; if(right == -1) rightDis = 1;
-				if(left == 2) leftDis = 0; if(right == 2) rightDis = 0;
-				if(left == 5) leftDis = 1; if(right == 5) rightDis = 1;
-				if(left == 8) leftDis = 2; if(right == 8) rightDis = 2;
-				if(left == 0) leftDis = 3; if(right == 0) rightDis = 3;
+				if(left == 2) leftDis = 3; if(right == 2) rightDis = 3;
+				if(left == 5) leftDis = 2; if(right == 5) rightDis = 2;
+				if(left == 8) leftDis = 1; if(right == 8) rightDis = 1;
+				if(left == 0) leftDis = 0; if(right == 0) rightDis = 0;
 				if(leftDis < rightDis) {
 					answer += 'L';
 					left = numbers[i];
@@ -113,7 +113,6 @@ public class 키패드_누르기 {
 					}
 				}
 			}
-			System.out.println(left + " : " + right);
 			
 		}
 		
