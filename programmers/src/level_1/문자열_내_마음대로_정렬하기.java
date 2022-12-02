@@ -20,7 +20,7 @@ public class 문자열_내_마음대로_정렬하기 {
 		}
 		String[] answer = new String[sArr.length];
 		
-		for(int i = 0; i < an.size(); i++) {
+		for(int i = 0, x = 0; i < an.size(); x++) {
 			char c = sArr[i].charAt(n);
 			int idx = i;
 			
@@ -28,10 +28,13 @@ public class 문자열_내_마음대로_정렬하기 {
 				if(c > an.get(j).charAt(n)) {
 					c = an.get(j).charAt(n);
 					idx = j;
+				} else if (c == an.get(j).charAt(n)) {
+					
 				}
 			}
-			an.add(an.get(idx));
+			answer[x] = an.get(idx);
 			an.remove(idx);
+			if(an.size() == 0) break;
 		}
 		
 		return answer;
