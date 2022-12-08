@@ -1,0 +1,499 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch JadenCase_문자열_만들기",
+            "request": "launch",
+            "mainClass": "level_2.JadenCase_문자열_만들기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "console": "internalConsole",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch K번째수",
+            "request": "launch",
+            "mainClass": "level_1.K번째수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch x만큼_간격이_있는_n개의_숫자",
+            "request": "launch",
+            "mainClass": "level_1.x만큼_간격이_있는_n개의_숫자",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 가운데_글자_가져오기",
+            "request": "launch",
+            "mainClass": "level_1.가운데_글자_가져오기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 같은_숫자는_싫어",
+            "request": "launch",
+            "mainClass": "level_1.같은_숫자는_싫어",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 과일_장수",
+            "request": "launch",
+            "mainClass": "level_1.과일_장수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 기사단원의_무기",
+            "request": "launch",
+            "mainClass": "level_1.기사단원의_무기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 나누어_떨어지는_숫자_배열",
+            "request": "launch",
+            "mainClass": "level_1.나누어_떨어지는_숫자_배열",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 나머지가_1이_되는_수_찾기",
+            "request": "launch",
+            "mainClass": "level_1.나머지가_1이_되는_수_찾기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 내적",
+            "request": "launch",
+            "mainClass": "level_1.내적",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 다트_게임_1차",
+            "request": "launch",
+            "mainClass": "level_1.다트_게임_1차",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 두_개_뽑아서_더하기",
+            "request": "launch",
+            "mainClass": "level_1.두_개_뽑아서_더하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 두_정수_사이의_합",
+            "request": "launch",
+            "mainClass": "level_1.두_정수_사이의_합",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 로또의_최고_순위와_최저_순위",
+            "request": "launch",
+            "mainClass": "level_1.로또의_최고_순위와_최저_순위",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 명예의_전당_1",
+            "request": "launch",
+            "mainClass": "level_1.명예의_전당_1",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 모의고사",
+            "request": "launch",
+            "mainClass": "level_1.모의고사",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열_나누기",
+            "request": "launch",
+            "mainClass": "level_1.문자열_나누기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열_내_p와_y의_개수",
+            "request": "launch",
+            "mainClass": "level_1.문자열_내_p와_y의_개수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열_내_마음대로_정렬하기",
+            "request": "launch",
+            "mainClass": "level_1.문자열_내_마음대로_정렬하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열_내림차순으로_배치하기",
+            "request": "launch",
+            "mainClass": "level_1.문자열_내림차순으로_배치하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열_다루기_기본",
+            "request": "launch",
+            "mainClass": "level_1.문자열_다루기_기본",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 문자열을_정수로_바꾸기",
+            "request": "launch",
+            "mainClass": "level_1.문자열을_정수로_바꾸기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 부족한_금액_계산하기",
+            "request": "launch",
+            "mainClass": "level_1.부족한_금액_계산하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 비밀지도_1차",
+            "request": "launch",
+            "mainClass": "level_1.비밀지도_1차",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 삼총사",
+            "request": "launch",
+            "mainClass": "level_1.삼총사",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 서울에서_김서방_찾기",
+            "request": "launch",
+            "mainClass": "level_1.서울에서_김서방_찾기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 성격_유형_검사하기",
+            "request": "launch",
+            "mainClass": "level_1.성격_유형_검사하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 소수_만들기",
+            "request": "launch",
+            "mainClass": "level_1.소수_만들기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 소수_찾기",
+            "request": "launch",
+            "mainClass": "level_1.소수_찾기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 수박수박수",
+            "request": "launch",
+            "mainClass": "level_1.수박수박수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 숫자_문자열과_영단어",
+            "request": "launch",
+            "mainClass": "level_1.숫자_문자열과_영단어",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 숫자_짝꿍",
+            "request": "launch",
+            "mainClass": "level_1.숫자_짝꿍",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 시저_암호",
+            "request": "launch",
+            "mainClass": "level_1.시저_암호",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 신고_결과_받기",
+            "request": "launch",
+            "mainClass": "level_1.신고_결과_받기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 신규_아이디_추천",
+            "request": "launch",
+            "mainClass": "level_1.신규_아이디_추천",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 실패율",
+            "request": "launch",
+            "mainClass": "level_1.실패율",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 약수의_개수와_덧셈",
+            "request": "launch",
+            "mainClass": "level_1.약수의_개수와_덧셈",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 약수의_합",
+            "request": "launch",
+            "mainClass": "level_1.약수의_합",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 없는_숫자_더하기",
+            "request": "launch",
+            "mainClass": "level_1.없는_숫자_더하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 예산",
+            "request": "launch",
+            "mainClass": "level_1.예산",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 옹알이2",
+            "request": "launch",
+            "mainClass": "level_1.옹알이2",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 완주하지_못한_선수",
+            "request": "launch",
+            "mainClass": "level_1.완주하지_못한_선수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 월일2016년",
+            "request": "launch",
+            "mainClass": "level_1.월일2016년",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 음양_더하기",
+            "request": "launch",
+            "mainClass": "level_1.음양_더하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 이상한_문자_만들기",
+            "request": "launch",
+            "mainClass": "level_1.이상한_문자_만들기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 자릿수_더하기",
+            "request": "launch",
+            "mainClass": "level_1.자릿수_더하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 자연수_뒤집어_배열로_만들기",
+            "request": "launch",
+            "mainClass": "level_1.자연수_뒤집어_배열로_만들기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 정수_내림차순으로_배치하기",
+            "request": "launch",
+            "mainClass": "level_1.정수_내림차순으로_배치하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 정수_제곱근_판별",
+            "request": "launch",
+            "mainClass": "level_1.정수_제곱근_판별",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 제일_작은_수_제거하기",
+            "request": "launch",
+            "mainClass": "level_1.제일_작은_수_제거하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 직사각형_별찍기",
+            "request": "launch",
+            "mainClass": "level_1.직사각형_별찍기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 짝수와_홀수",
+            "request": "launch",
+            "mainClass": "level_1.짝수와_홀수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 체육복",
+            "request": "launch",
+            "mainClass": "level_1.체육복",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최대공약수와_최소공배수",
+            "request": "launch",
+            "mainClass": "level_1.최대공약수와_최소공배수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최소직사각형",
+            "request": "launch",
+            "mainClass": "level_1.최소직사각형",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 콜라_문제",
+            "request": "launch",
+            "mainClass": "level_1.콜라_문제",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 콜라츠_추측",
+            "request": "launch",
+            "mainClass": "level_1.콜라츠_추측",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 크레인_인형뽑기_게임",
+            "request": "launch",
+            "mainClass": "level_1.크레인_인형뽑기_게임",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 키패드_누르기",
+            "request": "launch",
+            "mainClass": "level_1.키패드_누르기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 평균_구하기",
+            "request": "launch",
+            "mainClass": "level_1.평균_구하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 폰켓몬",
+            "request": "launch",
+            "mainClass": "level_1.폰켓몬",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 푸드_파이트_대회",
+            "request": "launch",
+            "mainClass": "level_1.푸드_파이트_대회",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 하샤드_수",
+            "request": "launch",
+            "mainClass": "level_1.하샤드_수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 핸드폰_번호_가리기",
+            "request": "launch",
+            "mainClass": "level_1.핸드폰_번호_가리기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 햄버거_만들기",
+            "request": "launch",
+            "mainClass": "level_1.햄버거_만들기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 행렬의_덧셈",
+            "request": "launch",
+            "mainClass": "level_1.행렬의_덧셈",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 귤_고르기",
+            "request": "launch",
+            "mainClass": "level_2.귤_고르기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 점_찍기",
+            "request": "launch",
+            "mainClass": "level_2.점_찍기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 최댓값과_최솟값",
+            "request": "launch",
+            "console": "internalConsole",
+            "mainClass": "level_2.최댓값과_최솟값",
+            "projectName": "programmers (2)"
+        }
+    ]
+}
