@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 이진_변환_반복하기",
+            "request": "launch",
+            "mainClass": "level_2.이진_변환_반복하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 올바른_괄호",
+            "request": "launch",
+            "mainClass": "level_2.올바른_괄호",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "Launch JadenCase_문자열_만들기",
             "request": "launch",
             "mainClass": "level_2.JadenCase_문자열_만들기",
