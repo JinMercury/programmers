@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch N개의_최소공배수",
+            "request": "launch",
+            "mainClass": "level_2.N개의_최소공배수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 구명보트",
+            "request": "launch",
+            "mainClass": "level_2.구명보트",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 영어_끝말잇기",
+            "request": "launch",
+            "mainClass": "level_2.영어_끝말잇기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch 짝지어_제거하기",
+            "request": "launch",
+            "mainClass": "level_2.짝지어_제거하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "Launch 피보나치_수",
             "request": "launch",
             "mainClass": "level_2.피보나치_수",
