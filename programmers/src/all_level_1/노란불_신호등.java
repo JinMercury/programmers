@@ -5,7 +5,7 @@ import java.util.*;
 public class 노란불_신호등 {
 
     public static void main (String[] args){
-        int[][] signals = {{2,1,2}, {5,1,1}};
+        int[][] signals = {{2,3,2}, {3,1,3},{2,1,1}};
 
         System.out.println(solution(signals));
     }
