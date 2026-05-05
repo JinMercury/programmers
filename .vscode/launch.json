@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "택배_상자_꺼내기",
+            "request": "launch",
+            "mainClass": "all_level_1.택배_상자_꺼내기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "유연근무제",
             "request": "launch",
             "mainClass": "all_level_1.유연근무제",
