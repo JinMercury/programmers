@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "지폐_접기",
+            "request": "launch",
+            "mainClass": "all_level_1.지폐_접기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "동영상_재생기",
             "request": "launch",
             "mainClass": "all_level_1.동영상_재생기",
