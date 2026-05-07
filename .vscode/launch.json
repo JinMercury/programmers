@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "가장_많이_받은_선물",
+            "request": "launch",
+            "mainClass": "all_level_1.가장_많이_받은_선물",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "공원",
             "request": "launch",
             "mainClass": "all_level_1.공원",
