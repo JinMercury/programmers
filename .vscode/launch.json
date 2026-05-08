@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "이웃한_칸",
+            "request": "launch",
+            "mainClass": "all_level_1.이웃한_칸",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "붕대_감기",
             "request": "launch",
             "mainClass": "all_level_1.붕대_감기",
