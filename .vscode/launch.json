@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "카드_뭉치",
+            "request": "launch",
+            "mainClass": "all_level_1.카드_뭉치",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "대충_만든_자판",
             "request": "launch",
             "mainClass": "all_level_1.대충_만든_자판",
