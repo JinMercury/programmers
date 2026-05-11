@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "덧칠하기",
+            "request": "launch",
+            "mainClass": "all_level_1.덧칠하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "바탕화면_정리",
             "request": "launch",
             "mainClass": "all_level_1.바탕화면_정리",
