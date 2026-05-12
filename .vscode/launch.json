@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "개인정보_수집_유효기간",
+            "request": "launch",
+            "mainClass": "all_level_1.개인정보_수집_유효기간",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "둘만의_암호",
             "request": "launch",
             "mainClass": "all_level_1.둘만의_암호",
