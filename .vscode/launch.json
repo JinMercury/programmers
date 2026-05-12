@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "크기가_작은_부분문자열",
+            "request": "launch",
+            "mainClass": "all_level_1.크기가_작은_부분문자열",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "개인정보_수집_유효기간",
             "request": "launch",
             "mainClass": "all_level_1.개인정보_수집_유효기간",
