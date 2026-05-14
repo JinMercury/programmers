@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "멀리_뛰기",
+            "request": "launch",
+            "mainClass": "level_2.멀리_뛰기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "연속_부분_수열_합의_개수",
             "request": "launch",
             "mainClass": "level_2.연속_부분_수열_합의_개수",
