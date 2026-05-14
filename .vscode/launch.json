@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "연속_부분_수열_합의_개수",
+            "request": "launch",
+            "mainClass": "level_2.연속_부분_수열_합의_개수",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "점프와_순간_이동",
             "request": "launch",
             "mainClass": "level_2.점프와_순간_이동",
