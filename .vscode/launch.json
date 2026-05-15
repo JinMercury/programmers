@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "예상_대진표",
+            "request": "launch",
+            "mainClass": "level_2.예상_대진표",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "멀리_뛰기",
             "request": "launch",
             "mainClass": "level_2.멀리_뛰기",
