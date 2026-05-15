@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "할인_행사",
+            "request": "launch",
+            "mainClass": "level_2.할인_행사",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "예상_대진표",
             "request": "launch",
             "mainClass": "level_2.예상_대진표",
