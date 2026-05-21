@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "의상",
+            "request": "launch",
+            "mainClass": "level_2.의상",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "n2_배열_자르기",
             "request": "launch",
             "mainClass": "level_2.n2_배열_자르기",
