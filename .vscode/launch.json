@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "H_Index",
+            "request": "launch",
+            "mainClass": "level_2.H_Index",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "의상",
             "request": "launch",
             "mainClass": "level_2.의상",
