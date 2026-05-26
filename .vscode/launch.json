@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "행렬의_곱셈",
+            "request": "launch",
+            "mainClass": "level_2.행렬의_곱셈",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "기능개발",
             "request": "launch",
             "mainClass": "level_2.기능개발",
