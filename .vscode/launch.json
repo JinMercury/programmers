@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "롤케이크_자르기",
+            "request": "launch",
+            "mainClass": "level_2.롤케이크_자르기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "프로세스",
             "request": "launch",
             "mainClass": "level_2.프로세스",
