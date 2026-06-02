@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "타겟_넘버",
+            "request": "launch",
+            "mainClass": "level_2.타겟_넘버",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "게임_맵_최단거리",
+            "request": "launch",
+            "mainClass": "level_2.게임_맵_최단거리",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "롤케이크_자르기",
             "request": "launch",
             "mainClass": "level_2.롤케이크_자르기",
