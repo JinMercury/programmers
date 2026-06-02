@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "튜플",
+            "request": "launch",
+            "mainClass": "level_2.튜플",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "타겟_넘버",
             "request": "launch",
             "mainClass": "level_2.타겟_넘버",
