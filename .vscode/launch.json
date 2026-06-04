@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "모음사전",
+            "request": "launch",
+            "mainClass": "level_2.모음사전",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "튜플",
             "request": "launch",
             "mainClass": "level_2.튜플",
