@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "방문_길이",
+            "request": "launch",
+            "mainClass": "level_2.방문_길이",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "뉴스_클러스터링",
             "request": "launch",
             "mainClass": "level_2.뉴스_클러스터링",
