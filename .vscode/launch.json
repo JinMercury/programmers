@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "더_맵게",
+            "request": "launch",
+            "mainClass": "level_2.더_맵게",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
+            "name": "더",
+            "request": "launch",
+            "mainClass": "level_2.더",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "뒤에_있는_큰_수_찾기",
             "request": "launch",
             "mainClass": "level_2.뒤에_있는_큰_수_찾기",
