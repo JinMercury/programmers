@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "뒤에_있는_큰_수_찾기",
+            "request": "launch",
+            "mainClass": "level_2.뒤에_있는_큰_수_찾기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "방문_길이",
             "request": "launch",
             "mainClass": "level_2.방문_길이",
