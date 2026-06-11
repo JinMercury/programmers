@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "주식가격",
+            "request": "launch",
+            "mainClass": "level_2.주식가격",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "k진수에서_소수_개수_구하기",
             "request": "launch",
             "mainClass": "level_2.k진수에서_소수_개수_구하기",
