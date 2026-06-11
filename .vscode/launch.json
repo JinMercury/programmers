@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "k진수에서_소수_개수_구하기",
+            "request": "launch",
+            "mainClass": "level_2.k진수에서_소수_개수_구하기",
+            "projectName": "programmers (2)"
+        },
+        {
+            "type": "java",
             "name": "더_맵게",
             "request": "launch",
             "mainClass": "level_2.더_맵게",
